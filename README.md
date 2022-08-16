@@ -1,6 +1,9 @@
 # shiyaya readme
 
-- reward 中使用的PPL 这一项 可以借鉴一下，借用一个GPT2模型
+### 关于强化学习生成的文本语法不是很顺畅的问题？？
+
+- 这个项目中reward 中使用的PPL 这一项 可以借鉴一下，借用一个GPT2模型
+- 也可以借用 《Learning to summarize from human feedback 》 这篇中的 KL 项？？
 
 
 # TextRL
