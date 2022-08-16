@@ -1,3 +1,8 @@
+# shiyaya readme
+
+- reward 中使用的PPL 这一项 可以借鉴一下，借用一个GPT2模型
+
+
 # TextRL
 
 Text generation with reinforcement learning using huggingface's transformer.
