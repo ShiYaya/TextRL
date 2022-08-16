@@ -1,5 +1,9 @@
 # shiyaya readme
 
+### 强化学习基础知识
+
+https://www.jianshu.com/p/9f113adc0c50
+
 ### 关于强化学习生成的文本语法不是很顺畅的问题？？
 
 - 这个项目中reward 中使用的PPL 这一项 可以借鉴一下，借用一个GPT2模型
