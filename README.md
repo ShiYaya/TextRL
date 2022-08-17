@@ -2,9 +2,9 @@
 
 ### 强化学习基础知识
 
-https://www.jianshu.com/p/9f113adc0c50
-https://zhuanlan.zhihu.com/p/55366623
-https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#deriving-the-simplest-policy-gradient
+https://www.jianshu.com/p/9f113adc0c50   
+https://zhuanlan.zhihu.com/p/55366623    
+https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#deriving-the-simplest-policy-gradient    
 
 ### 关于强化学习生成的文本语法不是很顺畅的问题？？
 
